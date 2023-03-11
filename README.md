@@ -40,10 +40,10 @@
 
 ## Autor
 
- ** Ayrton Senna **
- ** Naira Rivelli **
+ ** Ayrton Senna ** <br>
+ ** Naira Rivelli ** <br>
  ** João Vitor Rosa Pedro **
- 
+
  Obrigado por visitar :)
 
 
