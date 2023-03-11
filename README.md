@@ -41,7 +41,9 @@
 ## Autor
 
  ** Ayrton Senna **
-
+ ** Naira Rivelli **
+ ** João Vitor Rosa Pedro **
+ 
  Obrigado por visitar :)
 
 
